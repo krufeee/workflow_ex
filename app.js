@@ -1,4 +1,4 @@
-window.addEventListener("load", solve);
+ window.addEventListener("load", solve);
 
 function solve() {
   let firstNameElement = document.getElementById("first-name");
